@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+## User settings
+xcuserdata/
+
+# Provisioning Profiles / Certificates (SECURITY)
+*.mobileprovision
+*.p12
+*.cer
+
+# Environment Files / Secrets
+.env
+.env.*
