@@ -1,0 +1,5 @@
+# Swiping Between Views
+- Wrap views inside a `TabView`, and have the `.tabViewStyle(.page)` modifier.
+
+![Demo](README_assets/demo.gif)
+
