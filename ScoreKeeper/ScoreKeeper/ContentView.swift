@@ -58,7 +58,7 @@ struct ContentView: View {
                 scoreboard.players.append(Player(name: " ", score: 0))
             }
             // A button with opacity 0 can't be tapped, even accidently
-            .opacity(scoreboard.state == .setup ? 0 : 1.0)
+            .opacity(scoreboard.state != .setup ? 0 : 1.0)
             
             Spacer()
             
