@@ -26,4 +26,4 @@
 ![Demo](README_assets/output.gif)
 
 ## Version 2
-![Demo](README_assets/output.gif)
+![Demo](README_assets/output2.gif)
