@@ -16,6 +16,7 @@
 ## Modifiers
 - .navigationTitle
 - .safeAreaInset
+- .background(.bar)
 
 
 ![Demo](README_assets/output.gif)
